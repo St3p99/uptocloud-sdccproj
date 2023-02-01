@@ -1,7 +1,7 @@
 # Distributed systems and Cloud computing Course Project
 
 ## Project description
-Build a file-sharing Web Application, based on Azure Cloud Services. Manage access permissions and implemented search functionalities.
+Built a file-sharing Web Application, based on Azure Cloud Services. Managed access permissions and implemented search functionalities.
 
 ## Architecture
 Azure Cloud Services used:
